@@ -1,5 +1,3 @@
-Hello! I'm Alex, commonly known as Monoxide.
-
 monoxide@github
 ----------------
        OS  :  Arch Linux
